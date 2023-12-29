@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1703813361 "e:/Home/LeTeX/learn/abstract.tex" "abstract.pdf" "abstract" 1703813362 2
+  "abstract.aux" 1703813361 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "abstract.tex" 1703813360 132 4ecf47b85200e57688a9196bc7839be1 ""
+  "e:/Home/LeTeX/learn/abstract.tex" 1703813360 132 4ecf47b85200e57688a9196bc7839be1 ""
+  "e:/LaTex/texlive/2023/texmf-dist/web2c/texmf.cnf" 1688633269 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "e:/LaTex/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1688634976 7883504 b6279bf8404dab168a77dcd77626d691 ""
+  "e:/LaTex/texlive/2023/texmf.cnf" 1688634861 713 e69b156964470283e0530f5060668171 ""
+  (generated)
+  "abstract.aux"
+  "abstract.log"
+  "abstract.pdf"
+  (rewritten before read)
